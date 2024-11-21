@@ -411,6 +411,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 * [jsduck](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
 * [codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) is a visual tool for learning and documenting a codebase by putting breadcrumbs in source code.
+* [JavaScript Complete Notes](https://shubhadip.notion.site/JavaScript-Complete-Notes-1395dcf2e65580cfabacd2df26e26633) - Best Free Complete JavaScript Note
 
 ## Files
 *Libraries for working with files.*
